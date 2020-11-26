@@ -1,0 +1,2 @@
+from gym_foo.envs.pendulum_tucho import PendulumEnv
+from gym_foo.envs.foo_extrahard_env import FooExtraHardEnv
